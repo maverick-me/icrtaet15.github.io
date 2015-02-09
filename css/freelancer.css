@@ -1,4 +1,5 @@
 
+
 body {
     overflow-x: hidden;
 }
@@ -81,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background:#1397F5;
+    background:#00ff80;
 }
 
 header .container {
