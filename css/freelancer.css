@@ -111,6 +111,11 @@ header .intro-text .skills {
 td.final{
     background-color: #14f814;
 }
+.center-table
+{
+  margin: 0 auto !important;
+  float: none !important;
+}
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
@@ -149,7 +154,16 @@ td.final{
         font-size: 1.75em;
     }
 }
-
+a.abt{
+    color:#33A1DE !important;
+    background-color: inherit;
+}
+.ind{
+    color: #33A1DE !important;
+}
+.mi{
+    background-color: #33A1DE !important;
+}
 
 @media(min-width:768px) {
     .navbar-fixed-top {
